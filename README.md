@@ -1,1 +1,1 @@
-Segment TensorRT batch=3 fix (#7952)
+Update H1 in Explorer API docs (#7813)
