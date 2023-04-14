@@ -1,1 +1,1 @@
-More robust PNNX downloads (#8866)
+Update Colab notebook for YOLOv8.1 (#8660)
