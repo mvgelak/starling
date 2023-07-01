@@ -1,1 +1,1 @@
-ultralytics 8.1.25 OpenVINO LATENCY and THROUGHPUT modes (#8058)
+TensorRT FP16 export with dynamic=True (#7870)
