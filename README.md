@@ -1,1 +1,1 @@
-ultralytics 8.0.225 multi-video tracker bug fix (#6862)
+Fix solution functions description + integrations/openvino.md cover image update (#8170)
