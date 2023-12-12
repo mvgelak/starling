@@ -1,1 +1,1 @@
-Add docs guide terminal images (#8819)
+Add speed_estimation and distance_calculation in ultralytics solutions (#7325)
