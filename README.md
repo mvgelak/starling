@@ -1,1 +1,1 @@
-Add TorchScript Docs Integrations Page (#8501)
+Python refactorings and simplifications (#7549)
