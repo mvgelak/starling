@@ -1,1 +1,1 @@
-Explorer API video https://youtu.be/3VryynorQeo  (#7838)
+Elaborate Train and Predict mode docs arguments (#8137)
